@@ -1,4 +1,8 @@
-MIRAY HANNA — ART DIRECTOR PORTFOLIO V8
-Open index.html in a browser.
-All portfolio assets are stored locally in the assets folder.
-For a live shareable link, upload this whole folder to a static host such as Netlify Drop.
+UPLOAD ONLY THESE FILES TO YOUR EXISTING GITHUB REPOSITORY:
+1) Replace index.html in the repository root.
+2) Upload the 5 PNG files inside this package's assets folder into the existing assets folder.
+3) Commit changes. GitHub Pages will redeploy automatically.
+
+The logos are exact user-supplied logos converted to white with transparent backgrounds.
+Desktop: five balanced logos in one row.
+Mobile: five smaller logos in one row, no white cards/rectangles.
